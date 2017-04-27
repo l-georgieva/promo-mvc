@@ -1,0 +1,15 @@
+package com.test2.models.viewModels;
+
+
+public class ProductView {
+
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}
